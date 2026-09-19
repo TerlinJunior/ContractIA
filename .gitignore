@@ -1,0 +1,11 @@
+# Pastas do React
+node_modules/
+build/
+.env
+
+# Pastas do Python
+__pycache__/
+*.pyc
+venv/
+env/
+.pytest_cache/
